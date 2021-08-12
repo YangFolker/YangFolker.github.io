@@ -15,7 +15,7 @@ description: "记录，随笔"
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://github.com/YangFolker/YangFolker.github.io/blob/main/images/BlogLogo.jpg
+avatar: https://github.com/YangFolker/YangFolker.github.io/main/images/BlogLogo.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
 
