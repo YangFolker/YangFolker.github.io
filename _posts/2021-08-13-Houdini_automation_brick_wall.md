@@ -5,8 +5,6 @@ date: 2021-08-13
 tags: [Houdini, 自动化, TA, 练习]
 comments: true
 Author: Yang Folker
-toc: true
-pinned: true
 --- 
 
 在houdini中做了一个根据曲线自动生成的砖墙墙面，砖块颜色是一次交替的。
