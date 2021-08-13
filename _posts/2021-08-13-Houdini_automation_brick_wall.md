@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Houdini自动化砖墙练习
-comments: true
+title: "Houdini自动化砖墙练习"
 date: 2021-08-13
-Author: Yang Folker
-categories: 
 tags: [Houdini, 自动化, TA, 练习]
-
+comments: true
+Author: Yang Folker
 --- 
 
 # Houdini自动化砖墙练习
