@@ -22,5 +22,5 @@ Author: Yang Folker
 
 还可以选择，是否删除不重要面（即中间砖块被挡住的面，如果删除不重要面，在凸转角处会有一些小瑕疵）
 
-源文件可见：https://github.com/YangFolker/chopSuey/tree/main/Automation_Brick_Wall
+[1]: https://github.com/YangFolker/chopSuey/tree/main/Automation_Brick_Wall	"Houdini工程文件可见此处"
 
