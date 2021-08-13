@@ -65,8 +65,8 @@ layout: default
       <div class="entry">
         {{ post.excerpt | truncate: 200 }}
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <!--当第三行是图片的时候，会和下边的a href混杂在一起出错，所以我注掉了-->
+      <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
     </article>
   {% endunless %}
   {% endfor %}
