@@ -7,8 +7,6 @@ comments: true
 Author: Yang Folker
 --- 
 
-# Houdini自动化砖墙练习
-
 在houdini中做了一个根据曲线自动生成的砖墙墙面，砖块颜色是一次交替的。
 
 可自动调节高度。
